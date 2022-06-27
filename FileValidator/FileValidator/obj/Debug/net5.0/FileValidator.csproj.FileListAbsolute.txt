@@ -1,0 +1,16 @@
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.exe
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.deps.json
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.runtimeconfig.json
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.runtimeconfig.dev.json
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.dll
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\bin\Debug\net5.0\FileValidator.pdb
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.csproj.AssemblyReference.cache
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.AssemblyInfoInputs.cache
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.AssemblyInfo.cs
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.csproj.CoreCompileInputs.cache
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.dll
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\refint\FileValidator.dll
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.pdb
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\FileValidator.genruntimeconfig.cache
+D:\Proqraming\c#\Projectss\file-validator\FileValidator\FileValidator\obj\Debug\net5.0\ref\FileValidator.dll
